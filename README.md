@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá, me chamo Alisson Diego Caldeira e tenho 19 anos.<br>
+ Olá, me chamo Alisson Diego Caldeira, tenho 19 anos.<br>
   Atualmente estou cursando o 2°semestre do baicharelado em sistema de informação na UNIP através do ProUni.<br>
   Atualmente trabalho na GenniusSupply como aprendiz no setor administrativo da produção.
 </p>

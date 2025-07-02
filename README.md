@@ -2,16 +2,16 @@
 
 <p align="left"> 
  Olá, me chamo Alisson Diego Caldeira e tenho 19 anos.<br>
-  Atualmente estou cursando o 2°semestre do baicharelado em sistema de informação na UNIP através do ProUni.<br>
-  Atualmente trabalho na GenniusSupply como aprendiz no setor administrativo da produção.
+  Atualmente estou cursando o 4°semestre do baicharelado em sistema de informação na UNIP através do ProUni.<br>
+  Atualmente trabalho na GenniusSupply como aprendiz no setor de infraestrutura de T.I.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Javascript,Python.
+  🦄 Linguagens: Javascript,Python,Java,MySql.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code,PowerBI,Excel,Totvs.
+  💼 Ferramentas: Visual Studio Code,PowerBI,Excel,Totvs,IntelliJ, MySQL Workbench
 </p>
 
 <p align="left">

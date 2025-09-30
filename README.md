@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Javascript,Python,Java,MySql.
+  🦄 Linguagens: Javascript,Python,Java,MySql,SQLServer,C#.
 </p>
 
 <p align="left">
